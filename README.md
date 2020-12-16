@@ -2,4 +2,4 @@
 Just another repository
 
 HELLO!
-I'm just trying to learn Github.
+I'm getting my feet wet here trying out github.
